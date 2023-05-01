@@ -9,8 +9,7 @@
 <div align="eight">
   <b><h1>💡 Sobre</h1></b>
 </div>
-
-Diversos animais são abandonados ou perdidos todos os dias e não existe nenhuma ferramenta para a adoção dos mesmos. Nesse projeto vamos dar mais uma chance para todos os animais que estejam precisando de um novo lar com um site baseado no aplicativo mobile, onde possa ser adotado o animal e assim facilitar a adoção dos animais.
+Site baseado no aplicativo mobile do projeto Find Pets. Diversos animais são abandonados ou perdidos todos os dias e não existe nenhuma ferramenta para a adoção dos mesmos. Nesse projeto vamos dar mais uma chance para todos os animais que estejam precisando de um novo lar com um site onde possa ser adotado o animal e assim facilitar a adoção de animais.
 
 ##
 
@@ -51,16 +50,16 @@ Diversos animais são abandonados ou perdidos todos os dias e não existe nenhum
 
 <div align="center">
   
-![Alt text](./Imagens/Tela-de-inicio.png "Optional title")
+![Alt text](./Imagens/tela-de-inicio.png "Optional title")
 # Tela de incio
   
-![Alt text](./Imagens/Tela-de-cadastro.png "Optional title")
+![Alt text](./Imagens/tela-de-cadastro.png "Optional title")
 # Tela de cadastro
 
-![Alt text](./Imagens/Tela-de-registros.png "Optional title")
+![Alt text](./Imagens/tela-de-registros.png "Optional title")
 # Tela de registros
 
-![Alt text](./Imagens/Tela-de-sobre.png "Optional title")
+![Alt text](./Imagens/tela-de-sobre.png "Optional title")
 # Tela de sobre
 
 </div>
@@ -71,7 +70,7 @@ Diversos animais são abandonados ou perdidos todos os dias e não existe nenhum
   <b><h1>💻 Download</h1></b>
 </div>
 
-Para fazer uso desse repositório e dos códigos, você pode cloná-lo em seu GitHub com a opção de fork ou clique em [`baixar`](https://github.com/RamonCintas/Find-Pets-Mobile/archive/refs/heads/main.zip) esse repositório.
+Para fazer uso desse repositório e dos códigos, você pode cloná-lo em seu GitHub com a opção de fork ou clique em [`baixar`](https://github.com/RamonCintas/Find-Pets-Web/archive/refs/heads/main.zip) esse repositório.
 
 ##
 
