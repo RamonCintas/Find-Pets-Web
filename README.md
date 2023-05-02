@@ -1,5 +1,5 @@
 <div align="center">
-  <b><h1>Find pets para web</h1></b>
+  <b><h1>Find Pets para Web</h1></b>
   
 ![Alt text](./Imagens/Find-Pets.png "Optional title")
 </div>
