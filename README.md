@@ -9,7 +9,7 @@
 <div align="eight">
   <b><h1>💡 Sobre</h1></b>
 </div>
-Site baseado no aplicativo mobile do projeto Find Pets. Diversos animais são abandonados ou perdidos todos os dias e não existe nenhuma ferramenta para a adoção dos mesmos. Nesse projeto vamos dar mais uma chance para todos os animais que estejam precisando de um novo lar com um site onde possa ser adotado o animal e assim facilitar a adoção de animais.
+Site baseado no aplicativo mobile do projeto Find Pets, onde o objetivo é criar uma site para facilitar quem quer doar e quem quer adotar um animal de estimação diminuindo assim a taxa de animais abandonados ou perdidos.
 
 ##
 
