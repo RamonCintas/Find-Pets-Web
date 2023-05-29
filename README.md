@@ -85,6 +85,18 @@ Para fazer uso desse repositório e dos códigos, você pode cloná-lo em seu Gi
 
 ##
 
+
+##
+
+<div align="eight">
+  <b><h1>💻 Área de teste</h1></b>
+</div>
+
+Para testar esse projeto, você pode acessá-lo em seu computador com internet clicando em [`Acessar o site`](http://projeto-find-pets.infinityfreeapp.com/) do projeto find pets.
+
+
+##
+
 <div align="eight">
   <b><h1>⚔️ Tecnologias</h1></b>
 </div>
