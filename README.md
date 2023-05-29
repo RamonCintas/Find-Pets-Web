@@ -1,7 +1,7 @@
 <div align="center">
   <b><h1>Find Pets para Web</h1></b>
   
-![Alt text](./Imagens/Find-Pets.png "Optional title")
+![Alt text](./Imagens/Find-Pets-Logo.png "Optional title")
 </div>
 
 ##
@@ -52,17 +52,17 @@ Site baseado no aplicativo mobile do projeto Find Pets, onde o objetivo é criar
 
 <div align="center">
   
-![Alt text](./Imagens/tela-de-inicio.png "Optional title")
-# Tela de incio
+![Alt text](./Imagens/Tela-Inicio.png "Tela de Início")
+# ⇡ Tela de Início ⇡
   
-![Alt text](./Imagens/tela-de-cadastro.png "Optional title")
-# Tela de cadastro
+![Alt text](./Imagens/Tela-Cadastro.png "Tela de Cadastro")
+# ⇡ Tela de Cadastro ⇡
 
-![Alt text](./Imagens/tela-de-registros.png "Optional title")
-# Tela de registros
+![Alt text](./Imagens/Tela-Anuncios.png "Tela de Anúncios")
+# ⇡ Tela de Anúncios ⇡
 
-![Alt text](./Imagens/tela-de-sobre.png "Optional title")
-# Tela de sobre
+![Alt text](./Imagens/Tela-Animal.png "Tela do Animal")
+# ⇡ Tela do Animal ⇡
 
 </div>
 
@@ -91,8 +91,8 @@ As seguintes ferramentas foram utilizadas para desenvolver esse repositório:
 |<img align="center" alt="Ramon-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">[HTML](https://www.w3schools.com/html/)|
 |<img align="center" alt="Ramon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">[CSS](https://www.w3schools.com/css/)|
 |<img align="center" alt="Ramon-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">JavaScript|
-|Visual Studio Code|
-|VLibras|
+|[Visual Studio Code](https://code.visualstudio.com/)|
+|[VLibras](https://www.gov.br/governodigital/pt-br/vlibras)|
 
 </div>
 
