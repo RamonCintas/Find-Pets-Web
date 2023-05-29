@@ -37,6 +37,8 @@ Site baseado no aplicativo mobile do projeto Find Pets. Diversos animais são ab
 |:heavy_check_mark:|:computer:        |Inserir registro |
 |:heavy_check_mark:|:computer:        |Deletar registro  |
 |:heavy_check_mark:|:computer:        |Atualizar registro |
+|:heavy_check_mark:|:computer:        |Vlibras para traduzir o conteúdo de texto em Português para Libras |
+|:heavy_check_mark:|:computer:        |Audiodescrição pré gravado para traduzir o conteúdo do site em aúdio |
 
 
 </details>
@@ -90,6 +92,7 @@ As seguintes ferramentas foram utilizadas para desenvolver esse repositório:
 |<img align="center" alt="Ramon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">[CSS](https://www.w3schools.com/css/)|
 |<img align="center" alt="Ramon-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">JavaScript|
 |Visual Studio Code|
+|VLibras|
 
 </div>
 
