@@ -61,8 +61,17 @@ Site baseado no aplicativo mobile do projeto Find Pets, onde o objetivo é criar
 ![Alt text](./Imagens/Tela-Anuncios.png "Tela de Anúncios")
 # ⇡ Tela de Anúncios ⇡
 
-![Alt text](./Imagens/Tela-Animal.png "Tela do Animal")
-# ⇡ Tela do Animal ⇡
+![Alt text](./Imagens/Tela-Animal1.png "Tela do Animal1")
+# ⇡ Tela do Animal 1 ⇡
+
+![Alt text](./Imagens/Tela-Animal2.png "Tela do Animal2")
+# ⇡ Tela do Animal 2 ⇡
+  
+![Alt text](./Imagens/Tela-Animal3.png "Tela do Animal3")
+# ⇡ Tela do Animal 3 ⇡
+  
+![Alt text](./Imagens/Tela-Animal4.png "Tela do Animal4")
+# ⇡ Tela do Animal 4 ⇡
 
 </div>
 
