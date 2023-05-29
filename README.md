@@ -114,6 +114,7 @@ As seguintes ferramentas foram utilizadas para desenvolver esse repositório:
 |<img align="center" alt="Ramon-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">[JavaScript](https://www.w3schools.com/js/)|
 |[Visual Studio Code](https://code.visualstudio.com/)|
 |[VLibras](https://www.gov.br/governodigital/pt-br/vlibras)|
+|[Hospegem do infinityfree](https://www.infinityfree.net/)|
 
 </div>
 
