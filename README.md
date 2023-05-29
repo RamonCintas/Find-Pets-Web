@@ -9,7 +9,7 @@
 <div align="eight">
   <b><h1>💡 Sobre</h1></b>
 </div>
-Site baseado no aplicativo mobile do projeto Find Pets, onde o objetivo é criar uma site para facilitar quem quer doar e quem quer adotar um animal de estimação diminuindo assim a taxa de animais abandonados ou perdidos.
+Site baseado no aplicativo mobile do projeto Find Pets, onde o objetivo é criar um site para facilitar quem quer doar e quem quer adotar um animal de estimação diminuindo assim a taxa de animais abandonados ou perdidos.
 
 ##
 
