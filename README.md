@@ -33,7 +33,7 @@ Site baseado no aplicativo mobile do projeto Find Pets, onde o objetivo é criar
 
 |      Estado      |     Plataforma   |                 Tarefa                |
 |      :---:       |       :---:      |                  :---:                |
-|:heavy_check_mark:|:computer:        |CrudTXT|
+|:heavy_check_mark:|:computer:        |Crud|
 |:heavy_check_mark:|:computer:        |Inserir registro |
 |:heavy_check_mark:|:computer:        |Deletar registro  |
 |:heavy_check_mark:|:computer:        |Atualizar registro |
@@ -85,18 +85,6 @@ Para fazer uso desse repositório e dos códigos, você pode cloná-lo em seu Gi
 
 ##
 
-
-##
-
-<div align="eight">
-  <b><h1>💻 Área de teste</h1></b>
-</div>
-
-Para testar esse projeto, você pode acessá-lo em seu computador com internet clicando em [`Acessar o site`](http://projeto-find-pets.infinityfreeapp.com/) do projeto find pets.
-
-
-##
-
 <div align="eight">
   <b><h1>⚔️ Tecnologias</h1></b>
 </div>
@@ -114,7 +102,6 @@ As seguintes ferramentas foram utilizadas para desenvolver esse repositório:
 |<img align="center" alt="Ramon-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">[JavaScript](https://www.w3schools.com/js/)|
 |[Visual Studio Code](https://code.visualstudio.com/)|
 |[VLibras](https://www.gov.br/governodigital/pt-br/vlibras)|
-|[Hospegem do infinityfree](https://www.infinityfree.net/)|
 
 </div>
 
